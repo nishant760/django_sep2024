@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'clinical_project_db',  # Your database name
         'USER': 'root',       # Your MySQL user
-        'PASSWORD': 'root123', # Your MySQL password
+        'PASSWORD': 'root1234', # Your MySQL password
         'HOST': 'localhost',             # Or your DB host
         'PORT': '3306',                  # Default MySQL port
     }
