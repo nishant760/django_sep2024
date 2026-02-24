@@ -1,4 +1,5 @@
-#program to  find the index of a letter  in a name
+
+#program to  find the index of a letter  in a name .
 
 my_name = input('Enter your name:')
 letter = input('Enter the letter to be searched :')
