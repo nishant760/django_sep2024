@@ -1,4 +1,4 @@
-# to check the given rotated string is a rotated form of original string
+# to check the given rotated string is a rotated form of original string.
 original_str = input('Enter the original string:')
 rotated_str = input('Enter the rorated string:')
 
